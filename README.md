@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-playing-now-git-main-surendra-shresthas-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1262643835)
+</div>
+
 <!--
 **xurendra/xurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
